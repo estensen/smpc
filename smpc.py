@@ -2,6 +2,7 @@ from random import randint
 
 
 # Big enough prime
+# (for real, use a bigger prime in real life!)
 INTEGER_QUOTIENT = 179426549
 
 
